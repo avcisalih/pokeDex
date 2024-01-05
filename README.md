@@ -50,4 +50,6 @@ Bu depo, HTML, CSS ve JavaScript kullanılarak oluşturulmuş basit bir Pokedex 
 2. `index.html` dosyasını bir web tarayıcısında açın.
 3. Pokedex arayüzünü ve işlevselliğini keşfedin.
 
+### 📷 Ekran Görüntüsü 📷
+
 ![](poke.gif)
